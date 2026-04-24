@@ -1,16 +1,24 @@
 ぽぽじろうの れきしクイズ
-小学６年生の歴史クイズです！
+
+Pyxelで作ったクイズゲームです。
+小学６年生の歴史クイズです。
+
+▶ Play Game
+https://popojiro.github.io/popo_quize/popo_quize.html?gamepad=enabled
+
+操作
+- タップ or ゲームパッド　-
 
 
 使用ライセンス
 Pyxel
-このアニメはPyxel（MITライセンス）を使用して制作されました。
+このゲームはPyxel（MITライセンス）を使用して制作されました。
 https://github.com/kitao/pyxel
 Copyright (c) 2018-2026 Takashi Kitao
 
 
 フォント: k8x12S
-Copyright (C) 2002-2004 COZ (M+ FONTS PROJECT)
+
 ライセンス
 These fonts are free software.
 Unlimited permission is granted to use, copy, and distribute them, with or without modification, either commercially or noncommercially.
